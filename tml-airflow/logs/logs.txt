@@ -12239,3 +12239,4 @@ origin	https://<personal access token hidden>@github.com/143604205-myseneca/rasp
 [INFO 2024-12-05_17:37:09] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
 [INFO 2024-12-05_17:37:38] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
 [INFO 2024-12-05_17:38:22] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
+[INFO 2024-12-05_17:40:03] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalproject-1498.py
