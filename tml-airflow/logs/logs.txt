@@ -12192,3 +12192,4 @@ Already up to date.
 [INFO 2024-12-05_04:44:00] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
 [INFO 2024-12-05_04:44:13] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
 [INFO 2024-12-05_04:44:25] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
+[INFO 2024-12-05_04:44:36] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-finalproject-1498.py
